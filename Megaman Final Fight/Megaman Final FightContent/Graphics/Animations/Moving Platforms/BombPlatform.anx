@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="BombPlatformSheet.png" w="145" h="170">
+  <animation name="Default" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="81" srcY="0" srcW="64" srcH="87" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Press" loops="1">
+    <frame index="0" delay="2">
+      <sprite srcX="81" srcY="0" srcW="64" srcH="87" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="81" srcY="87" srcW="64" srcH="83" x="0" y="6" z="0" angle="0.0" />
+    </frame>
+    <frame index="2" delay="1">
+      <sprite srcX="81" srcY="87" srcW="64" srcH="83" x="0" y="2" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Activated" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="81" srcY="87" srcW="64" srcH="83" x="0" y="2" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="NearExplode" loops="3">
+    <frame index="0" delay="3">
+      <sprite srcX="81" srcY="87" srcW="64" srcH="83" x="0" y="2" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="3">
+      <sprite srcX="0" srcY="0" srcW="81" srcH="100" x="0" y="2" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

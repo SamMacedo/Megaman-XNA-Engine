@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="DownPlatformSheet.png" w="130" h="132">
+  <animation name="Default" loops="0">
+    <frame index="0" delay="7">
+      <sprite srcX="0" srcY="0" srcW="130" srcH="66" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="7">
+      <sprite srcX="0" srcY="66" srcW="130" srcH="66" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

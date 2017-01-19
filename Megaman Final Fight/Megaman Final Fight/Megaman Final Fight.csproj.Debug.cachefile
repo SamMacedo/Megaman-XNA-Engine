@@ -1,0 +1,62 @@
+Content\Graphics\Projectiles\Megaman\Buster_Small.xnb
+Content\Graphics\Other\Pixel.xnb
+Content\Graphics\Animations\Megaman\MegamanSheet.xnb
+Content\Graphics\Animations\Moving Platforms\UpPlatformSheet.xnb
+Content\Graphics\Animations\Moving Platforms\DownPlatformSheet.xnb
+Content\Graphics\Animations\Moving Platforms\SliderPlatformSheet.xnb
+Content\Graphics\Animations\Moving Platforms\SliderSolidPlatform.xnb
+Content\Graphics\Animations\Moving Platforms\SliderPlatformBall.xnb
+Content\Graphics\Animations\Moving Platforms\BombPlatformNumbers.xnb
+Content\Graphics\Animations\Moving Platforms\BombPlatformSheet.xnb
+Content\Maps\CameraTileSheet.xnb
+Content\Maps\LevelTileSheet.xnb
+Content\Maps\MovingPlatformsTileSheet.xnb
+Content\Graphics\Animations\Moving Platforms\SpikePlatformSheet.xnb
+Content\Graphics\Animations\Moving Platforms\FloatingPlatformSheet.xnb
+Content\Graphics\HealthBars\Bar.xnb
+Content\Graphics\HealthBars\MegamanContainer.xnb
+Content\Graphics\Animations\Megaman\MegamanDamageFlash.xnb
+Content\Graphics\Animations\Enemies\MetSheet.xnb
+Content\Maps\EnemiesTileSheet.xnb
+Content\Graphics\Projectiles\Enemies\Met_Shot.xnb
+Content\Graphics\Animations\Enemies\SensorSheet.xnb
+Content\Graphics\Animations\Enemies\StationaryCannon_Barrel.xnb
+Content\Graphics\Animations\Enemies\StationaryCannon_Base.xnb
+Content\mega.xnb
+Content\Graphics\Animations\Megaman\Megaman.xnb
+Content\Graphics\Animations\Moving Platforms\UpPlatform.xnb
+Content\Graphics\Animations\Moving Platforms\DownPlatform.xnb
+Content\Graphics\Animations\Moving Platforms\SliderPlatform.xnb
+Content\Graphics\Animations\Moving Platforms\BombPlatform.xnb
+Content\Graphics\Animations\Moving Platforms\SpikePlatform.xnb
+Content\Graphics\Animations\Moving Platforms\FloatingPlatform.xnb
+Content\Graphics\Animations\Enemies\Met.xnb
+Content\Graphics\Animations\Enemies\Sensor.xnb
+Content\Sounds\Megaman\Weapons\Shot.xnb
+Content\Sounds\Megaman\Land.xnb
+Content\Sounds\Moving Platforms\DownMovingPlatform.xnb
+Content\Sounds\Moving Platforms\UpMovingPlatform.xnb
+Content\Sounds\Enemies\Hit.xnb
+Content\Sounds\Enemies\Reflect.xnb
+Content\Sounds\Enemies\Shots\Enemy_Shot1.xnb
+Content\Sounds\Megaman\Hit.xnb
+Content\Sounds\Megaman\Death.xnb
+Content\Sounds\Megaman\Spawn_Land.xnb
+Content\Sounds\Megaman\Health_Recover.xnb
+Content\Fonts\font1.xnb
+Content\Maps\Level1.xnb
+Content\Music\Music1.xnb
+Content\Graphics\Animations\Megaman\MegamanSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\UpPlatformSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\DownPlatformSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\SliderPlatformSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\BombPlatformSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\SpikePlatformSheet.png.xnb
+Content\Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png.xnb
+Content\Graphics\Animations\Enemies\MetSheet.png.xnb
+Content\Graphics\Animations\Enemies\SensorSheet.png.xnb
+Content\CameraTileSheet.xnb
+Content\EnemiesTileSheet.xnb
+Content\LevelTileSheet.xnb
+Content\MovingPlatformsTileSheet.xnb
+Content\Music\Music1.wma

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="MegamanSheet.png" w="512" h="512">
+  <animation name="Idle" loops="0">
+    <frame index="0" delay="100">
+      <sprite srcX="0" srcY="190" srcW="73" srcH="95" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="0" srcY="0" srcW="74" srcH="95" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Step" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="95" srcW="74" srcH="95" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Jump" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="74" srcY="182" srcW="85" srcH="113" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="JumpShoot" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="74" srcY="295" srcW="93" srcH="113" x="4" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Shoot" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="74" srcY="0" srcW="91" srcH="95" x="10" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Slide" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="169" srcY="95" srcW="102" srcH="73" x="6" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Walk" loops="0">
+    <frame index="0" delay="5">
+      <sprite srcX="165" srcY="0" srcW="88" srcH="87" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="169" srcY="373" srcW="58" srcH="93" x="0" y="-1" z="0" angle="0.0" />
+    </frame>
+    <frame index="2" delay="5">
+      <sprite srcX="253" srcY="0" srcW="76" srcH="87" x="-6" y="-1" z="0" angle="0.0" />
+    </frame>
+    <frame index="3" delay="5">
+      <sprite srcX="169" srcY="373" srcW="58" srcH="93" x="0" y="-1" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="WalkShoot" loops="0">
+    <frame index="0" delay="5">
+      <sprite srcX="329" srcY="0" srcW="96" srcH="87" x="4" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="425" srcY="0" srcW="78" srcH="93" x="10" y="-1" z="0" angle="0.0" />
+    </frame>
+    <frame index="2" delay="5">
+      <sprite srcX="74" srcY="95" srcW="95" srcH="87" x="3" y="-1" z="0" angle="0.0" />
+    </frame>
+    <frame index="3" delay="5">
+      <sprite srcX="425" srcY="0" srcW="78" srcH="93" x="10" y="-2" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Ladder" loops="0">
+    <frame index="0" delay="7">
+      <sprite srcX="0" srcY="393" srcW="63" srcH="108" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="7">
+      <sprite srcX="0" srcY="285" srcW="63" srcH="108" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="LadderShoot" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="249" srcY="168" srcW="82" srcH="108" x="10" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="LadderTop" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="169" srcY="277" srcW="72" srcH="96" x="0" y="7" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="DamageNormal" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="169" srcY="168" srcW="80" srcH="109" x="0" y="6" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="DamageSlide" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="74" srcY="408" srcW="90" srcH="82" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Spawn" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="227" srcY="373" srcW="17" srcH="78" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

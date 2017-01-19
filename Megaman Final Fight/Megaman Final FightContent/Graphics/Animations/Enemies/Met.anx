@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="MetSheet.png" w="69" h="108">
+  <animation name="Covered" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="61" srcW="69" srcH="47" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Uncovered" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="0" srcW="66" srcH="61" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Bounce" loops="2">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="61" srcW="69" srcH="47" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="1">
+      <sprite srcX="0" srcY="61" srcW="69" srcH="47" x="-2" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

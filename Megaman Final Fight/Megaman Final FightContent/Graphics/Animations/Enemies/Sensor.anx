@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="SensorSheet.png" w="65" h="44">
+  <animation name="Idle" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="0" srcW="65" srcH="22" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Normal" loops="0">
+    <frame index="0" delay="12">
+      <sprite srcX="0" srcY="0" srcW="65" srcH="22" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="12">
+      <sprite srcX="0" srcY="22" srcW="65" srcH="22" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Alert" loops="0">
+    <frame index="0" delay="4">
+      <sprite srcX="0" srcY="0" srcW="65" srcH="22" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="4">
+      <sprite srcX="0" srcY="22" srcW="65" srcH="22" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

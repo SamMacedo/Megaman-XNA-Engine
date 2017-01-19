@@ -1,0 +1,2 @@
+C:\Users\Escritorio\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final FightContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final FightContent\obj\x86\Debug\Megaman Final FightContent.contentprojResolveAssemblyReference.cache

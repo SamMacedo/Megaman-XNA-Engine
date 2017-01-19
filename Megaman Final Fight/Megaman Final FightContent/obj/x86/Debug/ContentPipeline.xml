@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Projectiles\Megaman\Buster_Small.png</Source>
+      <Name>Graphics\Projectiles\Megaman\Buster_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Projectiles\Megaman\Buster_Small.xnb</Output>
+      <Time>2012-02-24T23:41:25-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Other\Pixel.png</Source>
+      <Name>Graphics\Other\Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Other\Pixel.xnb</Output>
+      <Time>2012-02-14T18:41:47-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Megaman\MegamanSheet.png</Source>
+      <Name>Graphics\Animations\Megaman\MegamanSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Megaman\MegamanSheet.xnb</Output>
+      <Time>2012-03-03T22:16:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\UpPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\UpPlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\UpPlatformSheet.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\DownPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\DownPlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\DownPlatformSheet.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SliderPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SliderPlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderPlatformSheet.xnb</Output>
+      <Time>2012-04-02T19:04:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SliderSolidPlatform.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SliderSolidPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderSolidPlatform.xnb</Output>
+      <Time>2012-04-06T20:37:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SliderPlatformBall.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SliderPlatformBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderPlatformBall.xnb</Output>
+      <Time>2012-04-02T19:05:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\BombPlatformNumbers.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\BombPlatformNumbers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\BombPlatformNumbers.xnb</Output>
+      <Time>2012-04-07T11:21:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\BombPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\BombPlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\BombPlatformSheet.xnb</Output>
+      <Time>2012-04-06T21:15:47-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\CameraTileSheet.png</Source>
+      <Name>Maps\CameraTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Maps\CameraTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\LevelTileSheet.png</Source>
+      <Name>Maps\LevelTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Maps\LevelTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\MovingPlatformsTileSheet.png</Source>
+      <Name>Maps\MovingPlatformsTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Maps\MovingPlatformsTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SpikePlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SpikePlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SpikePlatformSheet.xnb</Output>
+      <Time>2012-04-08T00:07:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\FloatingPlatformSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\FloatingPlatformSheet.xnb</Output>
+      <Time>2012-04-09T14:04:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\HealthBars\Bar.png</Source>
+      <Name>Graphics\HealthBars\Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\HealthBars\Bar.xnb</Output>
+      <Time>2012-04-09T17:14:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\HealthBars\MegamanContainer.png</Source>
+      <Name>Graphics\HealthBars\MegamanContainer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\HealthBars\MegamanContainer.xnb</Output>
+      <Time>2012-04-09T17:14:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Megaman\MegamanDamageFlash.png</Source>
+      <Name>Graphics\Animations\Megaman\MegamanDamageFlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Megaman\MegamanDamageFlash.xnb</Output>
+      <Time>2012-04-14T20:10:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\MetSheet.png</Source>
+      <Name>Graphics\Animations\Enemies\MetSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\MetSheet.xnb</Output>
+      <Time>2012-05-11T19:35:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\EnemiesTileSheet.png</Source>
+      <Name>Maps\EnemiesTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Maps\EnemiesTileSheet.xnb</Output>
+      <Time>2012-05-27T13:22:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Projectiles\Enemies\Met_Shot.png</Source>
+      <Name>Graphics\Projectiles\Enemies\Met_Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Projectiles\Enemies\Met_Shot.xnb</Output>
+      <Time>2012-05-12T10:21:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\SensorSheet.png</Source>
+      <Name>Graphics\Animations\Enemies\SensorSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\SensorSheet.xnb</Output>
+      <Time>2012-05-18T15:49:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\StationaryCannon_Barrel.png</Source>
+      <Name>Graphics\Animations\Enemies\StationaryCannon_Barrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\StationaryCannon_Barrel.xnb</Output>
+      <Time>2012-05-27T21:07:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\StationaryCannon_Base.png</Source>
+      <Name>Graphics\Animations\Enemies\StationaryCannon_Base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\StationaryCannon_Base.xnb</Output>
+      <Time>2012-05-27T21:07:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mega.png</Source>
+      <Name>mega</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\mega.xnb</Output>
+      <Time>2013-02-04T18:57:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Megaman\Megaman.anx</Source>
+      <Name>Graphics\Animations\Megaman\Megaman</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Megaman\Megaman.xnb</Output>
+      <Time>2012-03-03T22:03:47-08:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Megaman\MegamanSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\UpPlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\UpPlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\UpPlatform.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\UpPlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\DownPlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\DownPlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\DownPlatform.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\DownPlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SliderPlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\SliderPlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderPlatform.xnb</Output>
+      <Time>2012-04-02T19:04:11-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderPlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\BombPlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\BombPlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\BombPlatform.xnb</Output>
+      <Time>2012-04-07T10:10:41-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\BombPlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SpikePlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\SpikePlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SpikePlatform.xnb</Output>
+      <Time>2012-04-08T00:37:35-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SpikePlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\FloatingPlatform.anx</Source>
+      <Name>Graphics\Animations\Moving Platforms\FloatingPlatform</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\FloatingPlatform.xnb</Output>
+      <Time>2012-04-09T15:57:52-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\Met.anx</Source>
+      <Name>Graphics\Animations\Enemies\Met</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\Met.xnb</Output>
+      <Time>2012-05-12T22:06:05-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\MetSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\Sensor.anx</Source>
+      <Name>Graphics\Animations\Enemies\Sensor</Name>
+      <Importer>AnimationSetDataImporter</Importer>
+      <Processor>AnimationSetDataProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\Sensor.xnb</Output>
+      <Time>2012-05-18T15:49:42-07:00</Time>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\SensorSheet.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Weapons\Shot.wav</Source>
+      <Name>Sounds\Megaman\Weapons\Shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Weapons\Shot.xnb</Output>
+      <Time>2012-02-25T17:39:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Land.wav</Source>
+      <Name>Sounds\Megaman\Land</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Land.xnb</Output>
+      <Time>2012-03-17T21:33:09-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Moving Platforms\DownMovingPlatform.wav</Source>
+      <Name>Sounds\Moving Platforms\DownMovingPlatform</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Moving Platforms\DownMovingPlatform.xnb</Output>
+      <Time>2012-04-02T12:47:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Moving Platforms\UpMovingPlatform.wav</Source>
+      <Name>Sounds\Moving Platforms\UpMovingPlatform</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Moving Platforms\UpMovingPlatform.xnb</Output>
+      <Time>2012-04-02T12:46:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Enemies\Hit.wav</Source>
+      <Name>Sounds\Enemies\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Enemies\Hit.xnb</Output>
+      <Time>2012-05-12T13:44:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Enemies\Reflect.wav</Source>
+      <Name>Sounds\Enemies\Reflect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Enemies\Reflect.xnb</Output>
+      <Time>2012-05-12T13:39:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Enemies\Shots\Enemy_Shot1.wav</Source>
+      <Name>Sounds\Enemies\Shots\Enemy_Shot1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Enemies\Shots\Enemy_Shot1.xnb</Output>
+      <Time>2012-05-12T13:49:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Hit.wav</Source>
+      <Name>Sounds\Megaman\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Hit.xnb</Output>
+      <Time>2012-05-12T13:58:13-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Death.wav</Source>
+      <Name>Sounds\Megaman\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Death.xnb</Output>
+      <Time>2012-05-12T14:00:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Spawn_Land.wav</Source>
+      <Name>Sounds\Megaman\Spawn_Land</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Spawn_Land.xnb</Output>
+      <Time>2012-05-12T14:31:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Megaman\Health_Recover.wav</Source>
+      <Name>Sounds\Megaman\Health_Recover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Sounds\Megaman\Health_Recover.xnb</Output>
+      <Time>2012-05-12T21:16:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font1.spritefont</Source>
+      <Name>Fonts\font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Fonts\font1.xnb</Output>
+      <Time>2012-03-09T21:08:52-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\Level1.tide</Source>
+      <Name>Maps\Level1</Name>
+      <Importer>TideImporter</Importer>
+      <Processor>TideProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Maps\Level1.xnb</Output>
+      <Time>2012-06-09T10:20:15-07:00</Time>
+      <Dependency>
+        <Key>Maps\CameraTileSheet.png</Key>
+        <Value>2012-04-07T13:05:24-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Maps\EnemiesTileSheet.png</Key>
+        <Value>2012-05-27T13:22:04-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Maps\LevelTileSheet.png</Key>
+        <Value>2012-04-07T13:05:24-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Maps\MovingPlatformsTileSheet.png</Key>
+        <Value>2012-04-07T13:05:24-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\CameraTileSheet.xnb</Request>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\EnemiesTileSheet.xnb</Request>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\LevelTileSheet.xnb</Request>
+      <Request>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\MovingPlatformsTileSheet.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Music\Music1.mp3</Source>
+      <Name>Music\Music1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Music\Music1.xnb</Output>
+      <Extra>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Music\Music1.wma</Extra>
+      <Time>2012-04-28T22:44:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Megaman\MegamanSheet.png</Source>
+      <Name>Graphics\Animations\Megaman\MegamanSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Megaman\MegamanSheet.png.xnb</Output>
+      <Time>2012-03-03T22:16:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\UpPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\UpPlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\UpPlatformSheet.png.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\DownPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\DownPlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\DownPlatformSheet.png.xnb</Output>
+      <Time>2012-04-06T20:26:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SliderPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SliderPlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SliderPlatformSheet.png.xnb</Output>
+      <Time>2012-04-02T19:04:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\BombPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\BombPlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\BombPlatformSheet.png.xnb</Output>
+      <Time>2012-04-06T21:15:47-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\SpikePlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\SpikePlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\SpikePlatformSheet.png.xnb</Output>
+      <Time>2012-04-08T00:07:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png</Source>
+      <Name>Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Moving Platforms\FloatingPlatformSheet.png.xnb</Output>
+      <Time>2012-04-09T14:04:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\MetSheet.png</Source>
+      <Name>Graphics\Animations\Enemies\MetSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\MetSheet.png.xnb</Output>
+      <Time>2012-05-11T19:35:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Enemies\SensorSheet.png</Source>
+      <Name>Graphics\Animations\Enemies\SensorSheet.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\Graphics\Animations\Enemies\SensorSheet.png.xnb</Output>
+      <Time>2012-05-18T15:49:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\CameraTileSheet.png</Source>
+      <Name>CameraTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\CameraTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\EnemiesTileSheet.png</Source>
+      <Name>EnemiesTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\EnemiesTileSheet.xnb</Output>
+      <Time>2012-05-27T13:22:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\LevelTileSheet.png</Source>
+      <Name>LevelTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\LevelTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\MovingPlatformsTileSheet.png</Source>
+      <Name>MovingPlatformsTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\MovingPlatformsTileSheet.xnb</Output>
+      <Time>2012-04-07T13:05:24-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final FightContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final FightContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\Extensions\xTile.Pipeline.dll</Key>
+        <Value>2012-02-14T18:29:11-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Sam\Dropbox\Megaman (XNA)\Megaman Final Fight\Megaman Final Fight\Megaman Final Fight\Extensions\AnimationSystemPipelineExtensions.dll</Key>
+        <Value>2012-04-05T20:44:19-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-22T13:09:41.2568359-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

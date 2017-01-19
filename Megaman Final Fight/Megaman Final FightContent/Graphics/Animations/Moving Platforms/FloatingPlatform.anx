@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="FloatingPlatformSheet.png" w="88" h="100">
+  <animation name="Default" loops="0">
+    <frame index="0" delay="5">
+      <sprite srcX="0" srcY="0" srcW="84" srcH="48" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="0" srcY="52" srcW="84" srcH="48" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

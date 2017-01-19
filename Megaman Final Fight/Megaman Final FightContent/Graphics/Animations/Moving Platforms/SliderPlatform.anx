@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="SliderPlatformSheet.png" w="125" h="244">
+  <animation name="Default" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="0" srcW="42" srcH="73" x="1" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Idle Left" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="83" srcY="80" srcW="42" srcH="79" x="0" y="-4" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Flashing Left" loops="0">
+    <frame index="0" delay="8">
+      <sprite srcX="0" srcY="0" srcW="42" srcH="73" x="1" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="8">
+      <sprite srcX="83" srcY="80" srcW="42" srcH="79" x="0" y="-4" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Moving Left" loops="0">
+    <frame index="0" delay="5">
+      <sprite srcX="83" srcY="80" srcW="42" srcH="79" x="0" y="-4" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="82" srcY="166" srcW="43" srcH="78" x="-1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Idle Right" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="0" srcY="81" srcW="42" srcH="78" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Flashing Right" loops="0">
+    <frame index="0" delay="8">
+      <sprite srcX="0" srcY="0" srcW="42" srcH="73" x="1" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="8">
+      <sprite srcX="0" srcY="81" srcW="42" srcH="78" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="Moving Right" loops="0">
+    <frame index="0" delay="5">
+      <sprite srcX="0" srcY="81" srcW="42" srcH="78" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="5">
+      <sprite srcX="0" srcY="166" srcW="43" srcH="78" x="1" y="-3" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>

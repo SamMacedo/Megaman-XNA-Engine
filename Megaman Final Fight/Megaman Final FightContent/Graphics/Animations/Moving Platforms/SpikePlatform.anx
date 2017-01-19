@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--AnimationSet File-->
+<root image="SpikePlatformSheet.png" w="165" h="148">
+  <animation name="IdleVertical" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-44" z="1" angle="0.0" />
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="44" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="FlashVertical" loops="3">
+    <frame index="0" delay="7">
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="44" z="1" angle="0.0" />
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-44" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="7">
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="44" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-44" z="0" angle="0.0" />
+      <sprite srcX="0" srcY="0" srcW="69" srcH="64" x="-1" y="0" z="-1" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="FlipVertical" loops="1">
+    <frame index="0" delay="2">
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-44" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="44" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="2">
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-34" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="34" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="2" delay="2">
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-24" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="24" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="3" delay="2">
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="4" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="24" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-23" y="0" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="5" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="34" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-33" y="0" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="6" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="44" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-44" y="0" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="IdleHorizontal" loops="0">
+    <frame index="0" delay="1">
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-44" y="0" z="0" angle="0.0" />
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="44" y="0" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="FlashHorizontal" loops="3">
+    <frame index="0" delay="7">
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-44" y="0" z="0" angle="0.0" />
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="44" y="0" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="7">
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-44" y="0" z="0" angle="0.0" />
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="44" y="0" z="0" angle="0.0" />
+      <sprite srcX="0" srcY="64" srcW="64" srcH="70" x="0" y="0" z="-1" angle="0.0" />
+    </frame>
+  </animation>
+  <animation name="FlipHorizontal" loops="1">
+    <frame index="0" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="44" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-44" y="0" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="1" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="34" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-34" y="0" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="2" delay="2">
+      <sprite srcX="116" srcY="96" srcW="32" srcH="52" x="26" y="0" z="0" angle="0.0" />
+      <sprite srcX="133" srcY="0" srcW="32" srcH="53" x="-26" y="0" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="3" delay="2">
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="4" delay="2">
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="25" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-24" z="1" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="5" delay="2">
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="35" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-34" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+    <frame index="6" delay="2">
+      <sprite srcX="64" srcY="96" srcW="52" srcH="32" x="0" y="44" z="0" angle="0.0" />
+      <sprite srcX="64" srcY="64" srcW="52" srcH="32" x="0" y="-44" z="0" angle="0.0" />
+      <sprite srcX="69" srcY="0" srcW="64" srcH="64" x="0" y="0" z="0" angle="0.0" />
+    </frame>
+  </animation>
+</root>
